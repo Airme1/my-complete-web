@@ -1,0 +1,15 @@
+nav{
+    background-color: green;
+}
+
+.main-nav{
+    display: flex;
+    height: 2em;
+    justify-content: space-between;
+}
+
+
+li{
+    list-style  : none;
+    color: #fff;
+}
